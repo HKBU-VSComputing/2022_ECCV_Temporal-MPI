@@ -2,8 +2,6 @@
 #### [Wenpeng Xing](https://Derry-Xing.github.io/)<sup>1</sup>, [Jie Chen](https://jchenhkg.github.io/)<sup>1</sup> <br>
 ####  <sup>1</sup>Department of Computer Science, Hong Kong Baptist University  
 #### [Code](https://github.com/TigerYuHuzi/Temporal_MPI)
-#### This repository contains the implementation of ECCV 2022 paper: Temporal-MPI.
-
 
 ## Overall Pipeline
 
