@@ -7,7 +7,7 @@
 
 ## Overall Pipeline
 
-<div style="text-align: center"><img src="overall_pipeline.png" width="580"/></div>
+<div style="text-align: center"><img src="pipelines_6_2.png" width="580"/></div>
 
 ## Demonstration Video
 
