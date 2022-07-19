@@ -1,7 +1,7 @@
 ## Temporal-MPI: Enabling Multi-Plane Images for Dynamic Scene Modelling via Temporal Basis Learning
 #### [Wenpeng Xing](https://Derry-Xing.github.io/)<sup>1</sup>, [Jie Chen](https://jchenhkg.github.io/)<sup>1</sup> <br>
 ####  <sup>1</sup>Department of Computer Science, Hong Kong Baptist University  
-#### [Code](https://github.com/TigerYuHuzi/Temporal-MPI)
+#### [Code](https://github.com/TigerYuHuzi/TemporalMPI)
 
 ## Overall Pipeline
 
